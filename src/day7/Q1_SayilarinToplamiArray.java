@@ -2,7 +2,7 @@ package day7;
 
 import java.util.Scanner;
 
-public class C01_SayilarinToplamiArray {
+public class Q1_SayilarinToplamiArray {
     public static void main(String[] args) {
 
         // Kullanicidan istedigi kadar sayi alip, bu sayilari bir Array'de toplayip
