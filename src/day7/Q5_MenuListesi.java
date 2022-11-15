@@ -39,9 +39,9 @@ public class Q5_MenuListesi {
         String[] country={"american","american","italian","asian","afgani","indian",};
         for (int i = 0; i <food.length ; i++) {
 
-            System.out.println("--> "+ country[i]+ " <--");
+            System.out.println("--> "+ country[i]+ " ||--");
             for (int j = 0; j <food[i].length ; j++) {
-                System.out.println(food[i][j]+",");
+                System.out.println(food[i][j]+" * ");
             }
 
         }
